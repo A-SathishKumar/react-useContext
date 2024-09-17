@@ -1,4 +1,4 @@
-# React useContext Task
+# React useContext Task (Shopping Cart)
 
 **Task Description**
 
